@@ -70,7 +70,7 @@ class WeeklyScheduleCard extends HTMLElement {
           width: 40px;
         }
         th {
-          background-color: #f2f2f2;
+          background-color: rgba(255, 255, 255, 0.05);
           height: 40px;
           width: 15px !important;
           margin: 0;
